@@ -1,0 +1,16 @@
+{
+	"bot": {
+		"token": "your bot token",
+		"prefix": "?",
+		"devs": [""]
+	},
+	"server": {
+		"ip": "your mc server ip",
+		"port": "your mc server port, 25565 by default"
+	},	
+	"pterodactyl": {
+		"panel": "your pterodactyl panel url, example https://panel.example.com",
+		"serverID": "your pterodactyl server id",
+		"apiKey": "your pterodactyl api key"
+	}
+}

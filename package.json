@@ -1,0 +1,23 @@
+{
+  "name": "mcservertestbot",
+  "version": "1.0.0",
+  "description": "This is a bot used to check the status of a specific minecraft server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "axios": "^0.27.2",
+    "discord.js": "latest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RaydanOMGr/mcservertestbot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RaydanOMGr/mcservertestbot/issues"
+  },
+  "homepage": "https://github.com/RaydanOMGr/mcservertestbot#readme"
+}
